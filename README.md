@@ -1,9 +1,9 @@
-# 🩺 MedArena
+# MedArena
 
-### *Where Medical LLMs Compete.*
+### **Where Medical LLMs Compete**
 
 <p align="center">
-  <img src="assets/medarena_doodle.png" alt="MedArena Banner" width="100%">
+  <img src="assets/medArena.png" alt="MedArena Banner" width="100%">
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 **Benchmarking Multiple Unsloth-Supported Large Language Models for Medical Question Answering**
 
-*One Dataset • Multiple Models • One Arena*
+**One Dataset • Multiple Models • One Arena**
 
 </p>
 
 ---
 
-## 📖 Overview
+## Overview
 
 **MedArena** is a comprehensive benchmarking project designed to evaluate multiple lightweight open-source Large Language Models for **Medical Question Answering (Medical QA)**.
 
@@ -43,7 +43,7 @@ The project investigates how different models balance:
 
 ---
 
-# 🏟️ The Arena
+# The Arena
 
 Every model enters the arena under identical conditions.
 
@@ -126,5 +126,3 @@ The objective of MedArena is to identify the most effective and resource-efficie
 # Observed
 
 > **Less Memory. More Intelligence.**
-
----
