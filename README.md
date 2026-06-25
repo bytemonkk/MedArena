@@ -1,2 +1,2 @@
-# UnslothArena -> Where medical LLMs compete.
+# MedArena -> Where medical LLMs compete.
 small brains challenging big brains
