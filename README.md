@@ -98,7 +98,7 @@ Each model is evaluated using:
 
 ---
 
-# keep Aspects
+# key Aspects
 
 The objective of MedArena is to identify the most effective and resource-efficient open-source medical language model by comparing:
 
