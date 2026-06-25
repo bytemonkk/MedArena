@@ -1,6 +1,4 @@
-# MedArena
-
-### **Where Medical LLMs Compete**
+# MedArena - **Where Medical LLMs Compete**
 
 <p align="center">
   <img src="assets/medArena.png" alt="MedArena Banner" width="100%">
