@@ -13,7 +13,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge\&logo=huggingface)
 ![Unsloth](https://img.shields.io/badge/Unsloth-LoRA-purple?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-green?style=for-the-badge\&logo=nvidia)
-![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)
 
 </p>
 
